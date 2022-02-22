@@ -1,0 +1,8 @@
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\Orai_Feladat_Interface\Orai_Feladat_Interface\bin\Debug\Orai_Feladat_Interface.exe.config
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\Orai_Feladat_Interface\Orai_Feladat_Interface\bin\Debug\Orai_Feladat_Interface.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\Orai_Feladat_Interface\Orai_Feladat_Interface\bin\Debug\Orai_Feladat_Interface.pdb
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\Orai_Feladat_Interface\Orai_Feladat_Interface\obj\Debug\Orai_Feladat_Interface.csproj.AssemblyReference.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\Orai_Feladat_Interface\Orai_Feladat_Interface\obj\Debug\Orai_Feladat_Interface.csproj.SuggestedBindingRedirects.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\Orai_Feladat_Interface\Orai_Feladat_Interface\obj\Debug\Orai_Feladat_Interface.csproj.CoreCompileInputs.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\Orai_Feladat_Interface\Orai_Feladat_Interface\obj\Debug\Orai_Feladat_Interface.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\Orai_Feladat_Interface\Orai_Feladat_Interface\obj\Debug\Orai_Feladat_Interface.pdb
